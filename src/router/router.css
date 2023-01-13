@@ -1,0 +1,11 @@
+.container-loading {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
+
+.container-loading .loading {
+    color: #0191CE;
+}
