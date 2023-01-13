@@ -12,6 +12,8 @@ If you want edit the price of any item, you must click on that price and the edi
 
 Link: https://frontend-wanqara.netlify.app/login
 
+If application takes time to load, it's because the remote server for Backend app is on a free plan and has limitations.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
