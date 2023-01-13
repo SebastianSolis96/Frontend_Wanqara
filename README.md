@@ -4,9 +4,13 @@ User: ejemplo@gmail.com
 
 Password: Un4Cl4v3
 
-# Edit price on table | Info
+# Edit price in table | Info
 
 If you want edit the price of any item, you must click on that price and the edition will be activated. To save changes, press Enter after edit or click anywhere else.
+
+# App in production | Info
+
+Link: https://frontend-wanqara.netlify.app/login
 
 # Getting Started with Create React App
 
