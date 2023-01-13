@@ -1,11 +1,12 @@
 # Login | Info
 
 User: ejemplo@gmail.com
+
 Password: Un4Cl4v3
 
 # Edit price on table | Info
 
-If you want edit the price of an any item, you must click on that price and the edition will be activated. To save changes, press enter or click anywhere else.
+If you want edit the price of any item, you must click on that price and the edition will be activated. To save changes, press enter or click anywhere else.
 
 # Getting Started with Create React App
 
